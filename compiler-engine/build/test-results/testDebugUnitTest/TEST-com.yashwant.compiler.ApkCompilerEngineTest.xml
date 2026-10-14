@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.yashwant.compiler.ApkCompilerEngineTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-10-14T09:37:24" hostname="Vendastas-MacBook-Pro.local" time="1.794">
+  <properties/>
+  <testcase name="testCompileTracerProjectSuccess" classname="com.yashwant.compiler.ApkCompilerEngineTest" time="1.565"/>
+  <testcase name="testCompileFailsOnJavaSyntaxError" classname="com.yashwant.compiler.ApkCompilerEngineTest" time="0.228"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,49 @@
+com.yashwant.compiler.demo.app-activity-1.9.2-0 /Users/ykanagaraj/.gradle/caches/8.9/transforms/038f32321f6c5f967ba0a26d3444c739/transformed/activity-1.9.2/res
+com.yashwant.compiler.demo.app-animation-release-1 /Users/ykanagaraj/.gradle/caches/8.9/transforms/0961a542f49372488e1ec68cf3e8d172/transformed/animation-release/res
+com.yashwant.compiler.demo.app-core-runtime-2.2.0-2 /Users/ykanagaraj/.gradle/caches/8.9/transforms/17c2f6b23cd913db5ea64278319b9c14/transformed/core-runtime-2.2.0/res
+com.yashwant.compiler.demo.app-lifecycle-livedata-core-2.8.6-3 /Users/ykanagaraj/.gradle/caches/8.9/transforms/29d62bf4af5937cb8bc22a2ff5204d9e/transformed/lifecycle-livedata-core-2.8.6/res
+com.yashwant.compiler.demo.app-material-icons-extended-release-4 /Users/ykanagaraj/.gradle/caches/8.9/transforms/33e23c910e68c063f611b2dd8423e1a6/transformed/material-icons-extended-release/res
+com.yashwant.compiler.demo.app-lifecycle-viewmodel-ktx-2.8.6-5 /Users/ykanagaraj/.gradle/caches/8.9/transforms/351511b3bcdb89ddf00842bd0a35a516/transformed/lifecycle-viewmodel-ktx-2.8.6/res
+com.yashwant.compiler.demo.app-core-ktx-1.15.0-6 /Users/ykanagaraj/.gradle/caches/8.9/transforms/3919688e981ec9d735305c3d366204fc/transformed/core-ktx-1.15.0/res
+com.yashwant.compiler.demo.app-lifecycle-viewmodel-compose-release-7 /Users/ykanagaraj/.gradle/caches/8.9/transforms/3e1799416aad72a2e2966e101a183409/transformed/lifecycle-viewmodel-compose-release/res
+com.yashwant.compiler.demo.app-lifecycle-runtime-compose-release-8 /Users/ykanagaraj/.gradle/caches/8.9/transforms/44f8d6e0631b28a7116b8b524d861ae6/transformed/lifecycle-runtime-compose-release/res
+com.yashwant.compiler.demo.app-customview-poolingcontainer-1.0.0-9 /Users/ykanagaraj/.gradle/caches/8.9/transforms/4ba721d16715c7e9b4ac0f245d22d41c/transformed/customview-poolingcontainer-1.0.0/res
+com.yashwant.compiler.demo.app-profileinstaller-1.3.1-10 /Users/ykanagaraj/.gradle/caches/8.9/transforms/4d07dd122260385b5a0f7c79a656e780/transformed/profileinstaller-1.3.1/res
+com.yashwant.compiler.demo.app-savedstate-1.2.1-11 /Users/ykanagaraj/.gradle/caches/8.9/transforms/5199a3f0647c175ea37b297db953d762/transformed/savedstate-1.2.1/res
+com.yashwant.compiler.demo.app-runtime-saveable-release-12 /Users/ykanagaraj/.gradle/caches/8.9/transforms/55ddc2e20d4bd75245c24be4b1944cf9/transformed/runtime-saveable-release/res
+com.yashwant.compiler.demo.app-ui-geometry-release-13 /Users/ykanagaraj/.gradle/caches/8.9/transforms/5a609947871242ec5e9496e72f2a524b/transformed/ui-geometry-release/res
+com.yashwant.compiler.demo.app-material-icons-core-release-14 /Users/ykanagaraj/.gradle/caches/8.9/transforms/5bab0b2fa79d1002a271c4146f45e4ab/transformed/material-icons-core-release/res
+com.yashwant.compiler.demo.app-foundation-layout-release-15 /Users/ykanagaraj/.gradle/caches/8.9/transforms/6ce6f00495dd0e8ae3db539106924b2c/transformed/foundation-layout-release/res
+com.yashwant.compiler.demo.app-ui-graphics-release-16 /Users/ykanagaraj/.gradle/caches/8.9/transforms/6ddf9dac5be3bdc864add1287228fe96/transformed/ui-graphics-release/res
+com.yashwant.compiler.demo.app-startup-runtime-1.1.1-17 /Users/ykanagaraj/.gradle/caches/8.9/transforms/802d15ab3f17d0d372794a38f6d4f737/transformed/startup-runtime-1.1.1/res
+com.yashwant.compiler.demo.app-ui-util-release-18 /Users/ykanagaraj/.gradle/caches/8.9/transforms/87e0fc07ba72b1aaf82866c24309d496/transformed/ui-util-release/res
+com.yashwant.compiler.demo.app-animation-core-release-19 /Users/ykanagaraj/.gradle/caches/8.9/transforms/8bc331631bca62b321705cea6a29b258/transformed/animation-core-release/res
+com.yashwant.compiler.demo.app-activity-ktx-1.9.2-20 /Users/ykanagaraj/.gradle/caches/8.9/transforms/92e5c70bbc7ffb6ce36b32d24c5d1825/transformed/activity-ktx-1.9.2/res
+com.yashwant.compiler.demo.app-activity-compose-1.9.2-21 /Users/ykanagaraj/.gradle/caches/8.9/transforms/9510f589267c7c496381aae2bd518f3d/transformed/activity-compose-1.9.2/res
+com.yashwant.compiler.demo.app-foundation-release-22 /Users/ykanagaraj/.gradle/caches/8.9/transforms/ad8eea050f53ebc62f7f4a016af601f1/transformed/foundation-release/res
+com.yashwant.compiler.demo.app-runtime-release-23 /Users/ykanagaraj/.gradle/caches/8.9/transforms/adc88eefc038f452fb6bd0074f8f3f56/transformed/runtime-release/res
+com.yashwant.compiler.demo.app-lifecycle-runtime-ktx-release-24 /Users/ykanagaraj/.gradle/caches/8.9/transforms/aecd2b7b0de8a005c2c419332b3558ce/transformed/lifecycle-runtime-ktx-release/res
+com.yashwant.compiler.demo.app-material-ripple-release-25 /Users/ykanagaraj/.gradle/caches/8.9/transforms/aef40a8c261298e70270265a1744356c/transformed/material-ripple-release/res
+com.yashwant.compiler.demo.app-material3-release-26 /Users/ykanagaraj/.gradle/caches/8.9/transforms/b1d196674fcf86ebe35485f15500c334/transformed/material3-release/res
+com.yashwant.compiler.demo.app-ui-text-release-27 /Users/ykanagaraj/.gradle/caches/8.9/transforms/b9081bab59509022eb878220cfef438e/transformed/ui-text-release/res
+com.yashwant.compiler.demo.app-lifecycle-viewmodel-savedstate-2.8.6-28 /Users/ykanagaraj/.gradle/caches/8.9/transforms/baa3b0cbfa9aeb5f307bee2355cceeee/transformed/lifecycle-viewmodel-savedstate-2.8.6/res
+com.yashwant.compiler.demo.app-tracing-1.2.0-29 /Users/ykanagaraj/.gradle/caches/8.9/transforms/c3b9663123a8e7b78e200a59c155b90f/transformed/tracing-1.2.0/res
+com.yashwant.compiler.demo.app-savedstate-ktx-1.2.1-30 /Users/ykanagaraj/.gradle/caches/8.9/transforms/ca6874f2bdee4f1816786d9390c7cb72/transformed/savedstate-ktx-1.2.1/res
+com.yashwant.compiler.demo.app-ui-unit-release-31 /Users/ykanagaraj/.gradle/caches/8.9/transforms/cb6494861b2cf80846efa1e5555873b7/transformed/ui-unit-release/res
+com.yashwant.compiler.demo.app-ui-release-32 /Users/ykanagaraj/.gradle/caches/8.9/transforms/cca0cc3e8911fcf4cb5d95a8f2af57dc/transformed/ui-release/res
+com.yashwant.compiler.demo.app-core-1.15.0-33 /Users/ykanagaraj/.gradle/caches/8.9/transforms/cd46abea9d16e862d0dfae7b2db85bca/transformed/core-1.15.0/res
+com.yashwant.compiler.demo.app-lifecycle-runtime-release-34 /Users/ykanagaraj/.gradle/caches/8.9/transforms/dcd0abcf5b59461e5c93e87e25d65ec6/transformed/lifecycle-runtime-release/res
+com.yashwant.compiler.demo.app-annotation-experimental-1.4.1-35 /Users/ykanagaraj/.gradle/caches/8.9/transforms/e0e338b3f95b151fd3e8aa27f7091dc0/transformed/annotation-experimental-1.4.1/res
+com.yashwant.compiler.demo.app-lifecycle-viewmodel-release-36 /Users/ykanagaraj/.gradle/caches/8.9/transforms/e58b3c433dd2b17dfc63ef4a26292b43/transformed/lifecycle-viewmodel-release/res
+com.yashwant.compiler.demo.app-emoji2-1.3.0-37 /Users/ykanagaraj/.gradle/caches/8.9/transforms/e9a4de5f87829d8e56de87ff35dfed60/transformed/emoji2-1.3.0/res
+com.yashwant.compiler.demo.app-ui-tooling-preview-release-38 /Users/ykanagaraj/.gradle/caches/8.9/transforms/eec55eb5ad9acb96725fc7c87671d80e/transformed/ui-tooling-preview-release/res
+com.yashwant.compiler.demo.app-graphics-path-1.0.1-39 /Users/ykanagaraj/.gradle/caches/8.9/transforms/f20a1997074724b7156eff7f2a2bc541/transformed/graphics-path-1.0.1/res
+com.yashwant.compiler.demo.app-lifecycle-process-2.8.6-40 /Users/ykanagaraj/.gradle/caches/8.9/transforms/f686fc049fa5a93524ff702d072ec4a6/transformed/lifecycle-process-2.8.6/res
+com.yashwant.compiler.demo.app-pngs-41 /Users/ykanagaraj/Downloads/Personal Projects/android-apk-compiler/app/build/generated/res/pngs/debug
+com.yashwant.compiler.demo.app-resValues-42 /Users/ykanagaraj/Downloads/Personal Projects/android-apk-compiler/app/build/generated/res/resValues/debug
+com.yashwant.compiler.demo.app-packageDebugResources-43 /Users/ykanagaraj/Downloads/Personal Projects/android-apk-compiler/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.yashwant.compiler.demo.app-packageDebugResources-44 /Users/ykanagaraj/Downloads/Personal Projects/android-apk-compiler/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.yashwant.compiler.demo.app-debug-45 /Users/ykanagaraj/Downloads/Personal Projects/android-apk-compiler/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.yashwant.compiler.demo.app-debug-46 /Users/ykanagaraj/Downloads/Personal Projects/android-apk-compiler/app/src/debug/res
+com.yashwant.compiler.demo.app-main-47 /Users/ykanagaraj/Downloads/Personal Projects/android-apk-compiler/app/src/main/res
+com.yashwant.compiler.demo.app-debug-48 /Users/ykanagaraj/Downloads/Personal Projects/android-apk-compiler/compiler-engine/build/intermediates/packaged_res/debug/packageDebugResources
